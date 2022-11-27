@@ -1,0 +1,15 @@
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\bin\Debug\net6.0\KalendarZaDUMP.exe
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\bin\Debug\net6.0\KalendarZaDUMP.deps.json
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\bin\Debug\net6.0\KalendarZaDUMP.runtimeconfig.json
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\bin\Debug\net6.0\KalendarZaDUMP.dll
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\bin\Debug\net6.0\KalendarZaDUMP.pdb
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\KalendarZaDUMP.csproj.AssemblyReference.cache
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\KalendarZaDUMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\KalendarZaDUMP.AssemblyInfoInputs.cache
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\KalendarZaDUMP.AssemblyInfo.cs
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\KalendarZaDUMP.csproj.CoreCompileInputs.cache
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\KalendarZaDUMP.dll
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\refint\KalendarZaDUMP.dll
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\KalendarZaDUMP.pdb
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\KalendarZaDUMP.genruntimeconfig.cache
+C:\Users\zizic\Documents\DUMP Internship\KalendarZaDUMP\obj\Debug\net6.0\ref\KalendarZaDUMP.dll
