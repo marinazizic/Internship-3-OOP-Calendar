@@ -8,6 +8,12 @@ using System.Formats.Asn1;
 using System.Numerics;
 using System.Reflection;
 
+//Ispricavam se za jos jedan domaci pun kaosa, zeznila sam se cim sam si produzila rok proslog domaceg te sam dala poprilicno manje paznje ovom domacem. 
+// Nece se desiti ponovno, samo sam se lose organizirala sa rjesavanjem dvaju domacih ovaj tjedan.
+//Isprike na kaosu u domacem jos jednom. :( 
+//GitBash mi jos ne radi, napravila sam nove ssh kljuceve, probala sam brisati i downloadati opet, pogledala sam neke djelove git predavanja...ne znam..
+//probat cu kroz ovih par dana jos testirat pa cu vidit, ali uglavnom da skratim pricu ispricavam na commitovima preko githuba!
+
 namespace KalendarDUMP
 {
     class Program
